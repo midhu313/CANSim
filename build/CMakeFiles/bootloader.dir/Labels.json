@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

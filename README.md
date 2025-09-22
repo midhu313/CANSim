@@ -1,2 +1,5 @@
-# CANSim
-A CAN Utility to read and write CAN bus messages using ESP32 and MCP2515
+CANSim
+---
+### Description
+
+A CAN Utility to read and write CAN bus messages using ESP32 and MCP2515.

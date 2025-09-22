@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader
+/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader.rule
+/home/midhulaj/ESP32_WS/CANSim/build/CMakeFiles/bootloader-complete.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/midhulaj/ESP32_WS/CANSim/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
